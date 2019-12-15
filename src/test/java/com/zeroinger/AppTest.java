@@ -1,4 +1,4 @@
-package org.zeroinger;
+package com.zeroinger;
 
 import static org.junit.Assert.assertTrue;
 
